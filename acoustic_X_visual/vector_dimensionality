@@ -1,0 +1,8 @@
+action units : 15
+gaze features : 64
+pose features : 5
+facial landmarks : 256
+
+
+COVAREP : 37
+FORMANT : 10
